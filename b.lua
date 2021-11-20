@@ -19,8 +19,8 @@ if Config._DEBUG == true then
 else
 	Config["GMRGID"] = "835927915325161523"
 	Config["DefaultInterval"] = 30
-	Config["CompetitionCID"] = ""
-	Config["CompetitionStatsCID"] = ""
+	Config["CompetitionCID"] = "907149969637638164"
+	Config["CompetitionStatsCID"] = "907150009974284318"
 end
 
 --[[ Discord Utils ]]
