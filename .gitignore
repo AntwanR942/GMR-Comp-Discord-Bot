@@ -1,0 +1,16 @@
+token.txt
+
+Config.json
+
+GMR.log
+
+discordia*.log
+gateway*.json
+
+deps/
+!deps/CM.lua
+
+modules/*.db
+
+*.dll
+sqlite3.def
